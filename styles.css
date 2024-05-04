@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Slabo+27px&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Slabo+27px&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Patrick+Hand&family=Slabo+27px&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&family=Kalam:wght@300;400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Patrick+Hand&family=Slabo+27px&display=swap');
+
+
+/******************************** import ***************************/
+body {
+  background-color: #e8efcf;
+  text-align: center;
+  font-family: "Slabo 27px", serif;
+  font-weight: 100%;
+  margin: 0;
+}
+.top {
+  background-color: #afd198;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.mountain {
+  position: relative;
+  top: 4px;
+}
+.name {
+  padding-top: 3em;
+  font-family: "Kalam", cursive;
+  font-size: 5em;
+  padding-bottom: 0;
+  display: inline-block;
+}
+.intro {
+  padding-top: 0;
+  position: relative;
+  bottom: 2.5em;
+  font-size: 2em;
+}
+.cloud {
+  position: absolute;
+  width: 20%;
+  left: 5em;
+  top: 4.5em;
+}
+.sun {
+  position: absolute;
+  width: 20%;
+  right: 3em;
+  top: 5em;
+}
+/******************************** Top ***************************/
+
+.face {
+  width: 17em;
+  border-radius: 13em;
+  position: relative;
+  top: 68em;
+}
+
+.intro2 {
+  font-family: "Patrick Hand", cursive;
+  position: relative;
+  top: 35em;
+  font-size: 2em;
+  margin: 0 5em 0 5em;
+  padding-bottom: 2em;
+}
+
+.tophr {
+  position: relative;
+  top: 70em;
+}
+
+.tophr {
+  width: 13%;
+  border-style: dotted none none;
+  border-width: 0.73em;
+  color: #41b06e;
+}
+
+.hobbies {
+  padding-top: 2em;
+  position: relative;
+  top: 47em;
+  font-size: 1.5em;
+}
+.gamingintro {
+  font-family: "Patrick Hand", cursive;
+  padding-bottom: 2em;
+  margin: 0 5em 0 5em;
+}
+.game {
+  width: 8em;
+  border-width: 0.125em;
+}
+
+.midhr {
+  width: 13%;
+  border-style: dotted none none;
+  border-width: 0.5em;
+  color: #41b06e;
+}
+.book {
+  width: 8em;
+  border-width: 0.125em;
+  padding-top: 2em;
+}
+.readingintro {
+  font-family: "Patrick Hand", cursive;
+  padding-bottom: 2em;
+  margin: 0 5em 0 5em;
+}
+.software {
+  width: 8em;
+  border-width: 0.125em;
+  padding-top: 2em;
+}
+.prointro {
+  font-family: "Patrick Hand", cursive;
+  padding-bottom: 2em;
+  margin: 0 5em 0 5em;
+}
+
+.footer {
+  background-color: #afd198;
+  position: relative;
+  top: 70em;
+  height: 15em;
+}
+.contact {
+  padding-top: 1em;
+  font-size: 2em;
+}
+
+.social {
+  font-size: 1em;
+}
+.insta {
+  margin: 0 1em 0 1em;
+  font-size: 3.5em;
+}
+.twitter {
+  margin: 0 1em 0 1em;
+  font-size: 3.5em;
+}
+.reddit {
+  margin: 0 1em 0 1em;
+  font-size: 3.5em;
+}
+.foot{
+  font-size: 1em;
+}
+
+.color{
+  color: #073018b5;
+}
+h2{
+  color: #00431b;
+}
+.color2{
+  color: #024300;
+}
